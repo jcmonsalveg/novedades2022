@@ -4,9 +4,9 @@ Aplicación que permite la gestión de novedades relacionadas con el horario por
 
 ## Cuando existen novedades para mostrar
 Pantalla que presenta novedades de ejemplo para algunos grupos: <br>
-<img src="https://juancmg.com/apps/novedades/novedades01.jpg" width="400" height="900" />
+<img src="https://juancmg.com/apps/novedades/mnovedades01.jpg" width="400" height="900" />
 
 
 ## Cuando no hay novedades
 Pantalla que ven los usuarios cuando no hay novedades: <br>
-<img src="https://juancmg.com/apps/novedades/novedades02.jpg" width="400" height="900"  />
+<img src="https://juancmg.com/apps/novedades/mnovedades02.jpg" width="400" height="900"  />
